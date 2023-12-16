@@ -1,4 +1,4 @@
-## Chat Client & Server Applications
+## Chat Applications
 
 ### **About the Project**
 This project involved building two Java applications, a chat client application and a chat server application which can pass messages back and forth over a local host connection. Both applications may be executed from the command line.
