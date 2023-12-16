@@ -1,12 +1,12 @@
 Instructions to run the Programme:
 1.	Run the Server class in Java first, it will bring up a blank screen on the console
-![Run Server](screenshot1.png)
+![Chat-Application](screenshot1.png)
 2.	Run the client class, this can be run as many times as you like to have many different clients on the server, they will be prompt to enter in their username for the group chat
-![Run Server](screenshot2.png)
+![Chat-Application](screenshot2.png)
 3.	Server will show on the console the users that have joined the chat
-![Run Server](screenshot3.png)
+![Chat-Application](screenshot3.png)
 4.	If user types in “\q” they will leave the chat and the  code will finish
-![Run Server](screenshot4.png)
+![Chat-Application](screenshot4.png)
 
 The design of the programme I used three classes:
 
