@@ -8,6 +8,10 @@ This project involved building two Java applications, a chat client application 
 - Utilises Java Socket API
 - Utilises Java Multithreading (Chat Server Listens For Connections and Calls New Threads for Each Established Connection)
 
+### Tools used ###
+- Intellij
+- Java
+
 #### Instructions to run the Programme:
 1.	Run the Server class in Java first, it will bring up a blank screen on the console
 ![Chat-Application](screenshot1.png)
