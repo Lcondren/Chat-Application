@@ -9,7 +9,7 @@ This project involved building two Java applications, a chat client application 
 - Utilises Java Multithreading (Chat Server Listens For Connections and Calls New Threads for Each Established Connection)
 
 ### Tools used ###
-- Intellij
+- Intellij IDE
 - Java
 
 #### Instructions to run the Programme:
